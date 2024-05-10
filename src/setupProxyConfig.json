@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Tom",
+        "disabled": false,
+        "baseUrl": "/zhangsan",
+        "target": "http://127.0.0.1:8080"
+    },
+    {
+        "name": "Test environment",
+        "baseUrl": "/api",
+        "target": "http://127.0.0.1:8080"
+    }
+]
